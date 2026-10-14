@@ -6,68 +6,173 @@
   "coursePdfs": null,
   "courseTests": null,
   "socials": [
-    { "platform": "Reddit", "url": "https://www.reddit.com/u/tranquilizer014" },
-    { "platform": "Telegram", "url": "https://t.me/tranquilizer014" },
-    { "platform": "All Work", "url": "https://tranquilizer014.github.io/Tranquilizer_work/" }
+    {
+      "platform": "Reddit",
+      "url": "https://www.reddit.com/u/tranquilizer014"
+    },
+    {
+      "platform": "Telegram",
+      "url": "https://t.me/tranquilizer014"
+    },
+    {
+      "platform": "All Work",
+      "url": "https://tranquilizer014.github.io/Tranquilizer_work/"
+    }
   ],
   "subjects": [
     {
       "name": "Batcheet",
       "lectures": [
-        { "title": "Intro Class", "link": "https://streamtape.com/v/Ly11vJ0KyAhRGxG/1._Intro_Class.mp4" }
+        {
+          "title": "Intro Class",
+          "link": "https://streamtape.com/v/Ly11vJ0KyAhRGxG/1._Intro_Class.mp4"
+        }
       ]
     },
     {
       "name": "English Practice Set",
       "lectures": [
-        { "title": "Practice Set 1", "link": "https://streamtape.com/v/pVPkevz7Z8ur2km/1._Practice_Set_1.mp4" }
+        {
+          "title": "Practice Set 1",
+          "link": "https://streamtape.com/v/pVPkevz7Z8ur2km/1._Practice_Set_1.mp4"
+        }
       ]
     },
     {
       "name": "English Vocabulary",
       "lectures": [
-        { "title": "Idioms Class 01", "link": "https://streamtape.com/v/aP3jww9yoXfx8vl/1._Idioms_Class_01.mp4" },
-        { "title": "One Word Substitution Class 1", "link": "https://streamtape.com/v/px44MvmRgJfrZqX/2._One_Word_Substitution_Class_1.mp4" },
-        { "title": "One Word Substitution Class 2", "link": "https://streamtape.com/v/oWer3dYedeuJQOV/3._One_Word_Substitution_Class_2.mp4" },
-        { "title": "One Word Substitution Class 3", "link": "https://streamtape.com/v/wrya27kBDQtJbaq/4._One_Word_Substitution_Class_3.mp4" }
+        {
+          "title": "Idioms Class 01",
+          "link": "https://streamtape.com/v/aP3jww9yoXfx8vl/1._Idioms_Class_01.mp4"
+        },
+        {
+          "title": "One Word Substitution Class 1",
+          "link": "https://streamtape.com/v/px44MvmRgJfrZqX/2._One_Word_Substitution_Class_1.mp4"
+        },
+        {
+          "title": "One Word Substitution Class 2",
+          "link": "https://streamtape.com/v/oWer3dYedeuJQOV/3._One_Word_Substitution_Class_2.mp4"
+        },
+        {
+          "title": "One Word Substitution Class 3",
+          "link": "https://streamtape.com/v/wrya27kBDQtJbaq/4._One_Word_Substitution_Class_3.mp4"
+        }
       ]
     },
     {
       "name": "Maths",
       "lectures": [
-        { "title": "Probability Class 1", "link": "https://streamtape.com/v/4X2PwoweQ7sKQwX/1._Probability_Class_1.mp4" },
-        { "title": "Probability Class 2", "link": "https://streamtape.com/v/o1pqV2wkYoTJaA7/2._Probability_Class_2.mp4" },
-        { "title": "Probability Class 3", "link": "https://streamtape.com/v/AlBj2ZbkPLCXomj/3._Probability_Class_3.mp4" },
-        { "title": "Statistics Class 1", "link": "https://streamtape.com/v/mrrMVy1wbzhbm9D/4._Statistics_Class_1.mp4" },
-        { "title": "Statistics Class 2", "link": "https://streamtape.com/v/kPVeY6DVj3iOlyJ/5._Statistics_Class_2.mp4" },
-        { "title": "Statistics Class 3", "link": "https://streamtape.com/v/ydZZr2bBxZf1rgG/6._Statistics_Class_3.mp4" },
-        { "title": "Height And Distance Class 1", "link": "https://streamtape.com/v/p1BQG0A333cWwO/7._Height_And_Distance_Class_1.mp4" },
-        { "title": "Height And Distance Class 2", "link": "https://streamtape.com/v/pzvlj7q2AjFG8j/8._Height_And_Distance_Class_2.mp4" },
-        { "title": "Practice Probability Height and Distance", "link": "https://streamtape.com/v/348e2eZOxbidQP1/9._Practice_Probability_Height_and_Distance.mp4" },
-        { "title": "Mensuration 2D Class 1", "link": "https://streamtape.com/v/R7wVkl4B2xtdd99/10._Mensuration_2D_Class_1.mp4" },
-        { "title": "Mensuration 2D Class 2", "link": "https://streamtape.com/v/Rw7k17xZ2QCjbR/11._Mensuration_2D_Class_2.mp4" },
-        { "title": "Mensuration 2D Class 3", "link": "https://streamtape.com/v/xgQ6jqxk4MHkBwZ/12._Mensuration_2D_Class_3.mp4" },
-        { "title": "Mensuration 3D Class 1", "link": "https://streamtape.com/v/DPq19yZeqohkk3Y/13._Mensuration_3D_Class_1.mp4" },
-        { "title": "Mensuration 3D Class 2", "link": "https://streamtape.com/v/VXw7VyYqR1t9ar/14._Mensuration_3D_Class_2.mp4" },
-        { "title": "Mensuration 3D Class 3", "link": "https://streamtape.com/v/aRj6Q9rRoyCx4W0/15._Mensuration_3D_Class_3.mp4" }
+        {
+          "title": "Probability Class 1",
+          "link": "https://streamtape.com/v/4X2PwoweQ7sKQwX/1._Probability_Class_1.mp4"
+        },
+        {
+          "title": "Probability Class 2",
+          "link": "https://streamtape.com/v/o1pqV2wkYoTJaA7/2._Probability_Class_2.mp4"
+        },
+        {
+          "title": "Probability Class 3",
+          "link": "https://streamtape.com/v/AlBj2ZbkPLCXomj/3._Probability_Class_3.mp4"
+        },
+        {
+          "title": "Statistics Class 1",
+          "link": "https://streamtape.com/v/mrrMVy1wbzhbm9D/4._Statistics_Class_1.mp4"
+        },
+        {
+          "title": "Statistics Class 2",
+          "link": "https://streamtape.com/v/kPVeY6DVj3iOlyJ/5._Statistics_Class_2.mp4"
+        },
+        {
+          "title": "Statistics Class 3",
+          "link": "https://streamtape.com/v/ydZZr2bBxZf1rgG/6._Statistics_Class_3.mp4"
+        },
+        {
+          "title": "Height And Distance Class 1",
+          "link": "https://streamtape.com/v/p1BQG0A333cWwO/7._Height_And_Distance_Class_1.mp4"
+        },
+        {
+          "title": "Height And Distance Class 2",
+          "link": "https://streamtape.com/v/pzvlj7q2AjFG8j/8._Height_And_Distance_Class_2.mp4"
+        },
+        {
+          "title": "Practice Probability Height and Distance",
+          "link": "https://streamtape.com/v/348e2eZOxbidQP1/9._Practice_Probability_Height_and_Distance.mp4"
+        },
+        {
+          "title": "Mensuration 2D Class 1",
+          "link": "https://streamtape.com/v/R7wVkl4B2xtdd99/10._Mensuration_2D_Class_1.mp4"
+        },
+        {
+          "title": "Mensuration 2D Class 2",
+          "link": "https://streamtape.com/v/Rw7k17xZ2QCjbR/11._Mensuration_2D_Class_2.mp4"
+        },
+        {
+          "title": "Mensuration 2D Class 3",
+          "link": "https://streamtape.com/v/xgQ6jqxk4MHkBwZ/12._Mensuration_2D_Class_3.mp4"
+        },
+        {
+          "title": "Mensuration 3D Class 1",
+          "link": "https://streamtape.com/v/DPq19yZeqohkk3Y/13._Mensuration_3D_Class_1.mp4"
+        },
+        {
+          "title": "Mensuration 3D Class 2",
+          "link": "https://streamtape.com/v/VXw7VyYqR1t9ar/14._Mensuration_3D_Class_2.mp4"
+        },
+        {
+          "title": "Mensuration 3D Class 3",
+          "link": "https://streamtape.com/v/aRj6Q9rRoyCx4W0/15._Mensuration_3D_Class_3.mp4"
+        }
       ]
     },
     {
       "name": "Maths Sheet Solution",
       "lectures": [
-        { "title": "Probability Coin Calendar - Solution", "link": "https://streamtape.com/v/XqR33l3o8wtDabX/1._Probability_Coin_Calendar_-_Solution.mp4" },
-        { "title": "Probability Cards Balls - Solution", "link": "https://streamtape.com/v/qayGjkdrvZIzXzj/2._Probability_Cards_Balls_-_Solution.mp4" },
-        { "title": "Statistics Solution", "link": "https://streamtape.com/v/llW6yDJldkfZWJ/3._Statistics_Solution.mp4" }
+        {
+          "title": "Probability Coin Calendar - Solution",
+          "link": "https://streamtape.com/v/XqR33l3o8wtDabX/1._Probability_Coin_Calendar_-_Solution.mp4"
+        },
+        {
+          "title": "Probability Cards Balls - Solution",
+          "link": "https://streamtape.com/v/qayGjkdrvZIzXzj/2._Probability_Cards_Balls_-_Solution.mp4"
+        },
+        {
+          "title": "Statistics Solution",
+          "link": "https://streamtape.com/v/llW6yDJldkfZWJ/3._Statistics_Solution.mp4"
+        }
       ]
     },
     {
       "name": "Reasoning and Military Aptitude",
       "lectures": [
-        { "title": "Anurag Bhaiya - Intro Class", "link": "https://streamtape.com/v/gg8lk1jPVQcq8zl/1._Anurag_Bhaiya_-_Intro_Class.mp4" },
-        { "title": "Coding Decoding Class 1", "link": "https://streamtape.com/v/oMZz3vWDxkUJLMe/2._Coding_Decoding_Class_1.mp4" },
-        { "title": "Coding Decoding Class 2", "link": "https://streamtape.com/v/1byz32RZ4AF63O/3._Coding_Decoding_Class_2.mp4" },
-        { "title": "Blood Relation", "link": "https://streamtape.com/v/KX7VRVjrM2C0Mpy/4._Blood_Relation.mp4" },
-        { "title": "Blood Relation Class 2", "link": "https://streamtape.com/v/6KmmYbboxBs9MkG/5._Blood_Relation_Class_2.mp4" }
+        {
+          "title": "Anurag Bhaiya - Intro Class",
+          "link": "https://streamtape.com/v/gg8lk1jPVQcq8zl/1._Anurag_Bhaiya_-_Intro_Class.mp4"
+        },
+        {
+          "title": "Coding Decoding Class 1",
+          "link": "https://streamtape.com/v/oMZz3vWDxkUJLMe/2._Coding_Decoding_Class_1.mp4"
+        },
+        {
+          "title": "Coding Decoding Class 2",
+          "link": "https://streamtape.com/v/1byz32RZ4AF63O/3._Coding_Decoding_Class_2.mp4"
+        },
+        {
+          "title": "Blood Relation",
+          "link": "https://streamtape.com/v/KX7VRVjrM2C0Mpy/4._Blood_Relation.mp4"
+        },
+        {
+          "title": "Blood Relation Class 2",
+          "link": "https://streamtape.com/v/6KmmYbboxBs9MkG/5._Blood_Relation_Class_2.mp4"
+        }
+      ]
+    },
+    {
+      "name": "SSB",
+      "lectures": [
+        {
+          "title": "Right Approach to SSB Interviews",
+          "link": "https://streamtape.com/v/7wMyJlW1ODHAABY/1._Right_Approach_to_SSB_Interviews.mp4"
+        }
       ]
     }
   ]
